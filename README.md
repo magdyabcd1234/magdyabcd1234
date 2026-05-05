@@ -1,18 +1,27 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/><br>
 
 # 👋 Mohamed Magdy  
-### Front-End Developer (React.js & Next.js)
-
-![Profile Views](https://komarev.com/ghpvc/?username=magdyabcd1234&style=flat&color=orange)
+### Front-End Developer | React.js • Next.js • TypeScript
 
 </div>
 
-<hr>
+---
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+Front-End Developer focused on building fast, scalable, and user-friendly web applications using modern JavaScript frameworks.
+
+- 💻 Specialized in React.js & Next.js  
+- ⚡ Strong focus on performance & clean architecture  
+- 📦 Experience building real-world E-commerce applications  
+- 🎯 Passionate about writing maintainable code  
+
+---
+
+## 🧠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -25,19 +34,22 @@
 
 ---
 
-## 📌 About Me
+## 📌 Featured Projects
 
-- 💻 Front-End Developer specialized in React & Next.js  
-- ⚡ Focused on building scalable and clean web applications  
-- 📚 Improving performance & writing clean code  
+### 🛒 E-Commerce Platform (API Based)
+- Built a full-featured e-commerce application using real API  
+- Features: Authentication, Cart, Product Filtering, State Management  
+- Focused on performance, scalability, and clean architecture  
+
+### 🛍️ E-Commerce App (Local Data)
+- Developed multiple UI-focused e-commerce projects  
+- Practiced reusable components and responsive design  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
-
-<!-- البديل اللي هيشتغل حتى لو GitHub Stats واقف -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magdyabcd1234&theme=tokyonight" width="90%">
 
@@ -52,5 +64,4 @@
 
 ---
 
-⭐ Always learning and building real-world projects.
-
+⭐ Always learning, building, and improving.
