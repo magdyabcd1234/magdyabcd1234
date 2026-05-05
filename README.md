@@ -60,7 +60,8 @@ Front-End Developer focused on building fast, scalable, and user-friendly web ap
 ## 📫 Contact
 
 - GitHub: https://github.com/magdyabcd1234  
-- Email: magdy299025@gmail.com  
+- Email: magdy299025@gmail.com
+- cv:  
 
 ---
 
