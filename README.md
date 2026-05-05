@@ -54,11 +54,3 @@
 
 ⭐ Always learning and building real-world projects.
 
-## 📫 Contact
-
-- GitHub: https://github.com/magdyabcd1234  
-- Email: magdy299025@gmail.com  
-
----
-
-⭐ Always learning and building real-world projects.
