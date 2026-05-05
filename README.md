@@ -6,7 +6,7 @@
 # 👋 Mohamed Magdy  
 ### Front-End Developer (React.js & Next.js)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=magdyabcd1234&style=flat&color=orange)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 - 💻 Front-End Developer specialized in React & Next.js  
 - ⚡ Focused on building scalable and clean web applications  
-- 📚 Improving performance & code quality  
+- 📚 Improving performance & writing clean code  
 
 ---
 
@@ -37,8 +37,10 @@
 
 <div align="center">
 
+<!-- Main Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=magdyabcd1234&show_icons=true&theme=tokyonight" width="45%">
 
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdyabcd1234&layout=compact&theme=tokyonight" width="45%">
 
 </div>
@@ -52,4 +54,4 @@
 
 ---
 
-⭐ Building real-world projects and growing every day.
+⭐ Always learning and building real-world projects.
