@@ -37,14 +37,11 @@
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=octocat" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=magdyabcd1234&show_icons=true&theme=tokyonight" width="45%">
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=octocat" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdyabcd1234&layout=compact&theme=tokyonight" width="45%">
 
 </div>
-
 ---
 
 ## 📫 Contact
