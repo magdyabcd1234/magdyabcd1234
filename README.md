@@ -46,8 +46,8 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/your-username  
-- Email: your-email@gmail.com  
+- GitHub: https://github.com/mohamed-magdy  
+- Email: magdy299025@gmail.com  
 
 ---
 
