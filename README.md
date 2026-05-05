@@ -37,12 +37,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=magdyabcd1234&show_icons=true&theme=tokyonight" width="45%">
+<!-- البديل اللي هيشتغل حتى لو GitHub Stats واقف -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdyabcd1234&layout=compact&theme=tokyonight" width="45%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magdyabcd1234&theme=tokyonight" width="90%">
 
 </div>
+
 ---
+
+## 📫 Contact
+
+- GitHub: https://github.com/magdyabcd1234  
+- Email: magdy299025@gmail.com  
+
+---
+
+⭐ Always learning and building real-world projects.
 
 ## 📫 Contact
 
