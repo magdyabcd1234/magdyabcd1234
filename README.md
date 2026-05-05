@@ -46,7 +46,7 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/mohamed-magdy  
+- GitHub: https://github.com/magdyabcd1234  
 - Email: magdy299025@gmail.com  
 
 ---
